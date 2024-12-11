@@ -1,0 +1,7 @@
+torch==1.9.1
+torchvision==0.10.1
+torchaudio==0.9.1
+typing-extensions==4.5.0
+tensorflow==2.13.0
+torchtext==0.10.1
+transformers==4.12.0
